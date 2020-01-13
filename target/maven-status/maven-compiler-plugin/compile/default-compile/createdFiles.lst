@@ -1,0 +1,11 @@
+com\rnd\graphql\graphql\service\VehicleService.class
+com\rnd\graphql\graphql\repository\UserRepository.class
+com\rnd\graphql\graphql\entrypoint\UserEntry.class
+com\rnd\graphql\graphql\repository\VehicleRepository.class
+com\rnd\graphql\graphql\App.class
+com\rnd\graphql\graphql\service\SelectQueryBuilder$Builder.class
+com\rnd\graphql\graphql\models\Vehicle.class
+com\rnd\graphql\graphql\entrypoint\UserController.class
+com\rnd\graphql\graphql\service\SelectQueryBuilder.class
+com\rnd\graphql\graphql\service\UserService.class
+com\rnd\graphql\graphql\models\User.class
